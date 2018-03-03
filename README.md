@@ -1,5 +1,4 @@
 # BankApp
-Model of bank system. Just exercising OOP...
 
 Ova aplikacija je zamisljena kao aplikacija za bankovne sisteme. Jedna firma nudi usluge kreiranja i administritanja bankovnog sistema razlicitim bankama. Ste banke su u istom sistemu, samim tim i istoj bazi, ali imaju pristup samo svojim informacijama.
 
