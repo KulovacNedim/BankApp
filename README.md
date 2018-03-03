@@ -12,3 +12,13 @@ Aplikacija predstavlja bankovnu aplikaciju sa 4 razlicite tacke pristupa:
 2) pristup iz perspektive korisnika - uposlenika banke <br>
 3) Pristup iz perspektive bankomat operatera <br>
 4) Pristup iz perspektive bankomata - masine <br>
+
+Administratorskom i korisnickom djelu programa se pristupa putem RunBankApp klase iz klase application.
+Ukoliko se loguje osoba koja ima administratorsku funkciju pokrenut ce se ADMIN MAIN MENU, a ukoliko se loguje osba koja ima korisnicku funkciju pokrenut ce se USER MAIN MENU.
+
+User funkcija u izradi...
+
+ATM operater u izradi...
+
+ATM u izradi...
+ 
