@@ -9,7 +9,7 @@ Moglo bi se dodati jos dosta opcija i podataka za pratit u sistemu, mozda nekad 
 
 Aplikacija predstavlja bankovnu aplikaciju sa 4 razlicite tacke pristupa:
 
-<a href="https://github.com/KulovacNedim/BankApp/blob/master/docs/AdminFunctionDescription.txt" target = "_blank">1) Pristup iz perspektive administratora</a> <br>
-2) pristup iz perspektive korisnika - uposlenika banke
-3) Pristup iz perspektive bankomat operatera
-4) Pristup iz perspektive bankomata - masine
+<a href="https://github.com/KulovacNedim/BankApp/blob/master/docs/AdminFunctionDescription.txt">1) Pristup iz perspektive administratora</a> <br>
+2) pristup iz perspektive korisnika - uposlenika banke <br>
+3) Pristup iz perspektive bankomat operatera <br>
+4) Pristup iz perspektive bankomata - masine <br>
