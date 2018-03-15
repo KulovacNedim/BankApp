@@ -1,0 +1,25 @@
+1<>1<>Poslovnica Tesanj<>0<>true
+2<>1<>Poslovnica Tesanj<>0<>false
+1<>2<>Poslovnica Tuzla<>0<>true
+4<>3<>Poslovnica Tesanj<>0<>true
+4<>4<>Poslovnica Jelah<>0<>true
+5<>5<>Poslovnica Tesanj<>0<>true
+5<>6<>Poslovnica TC Europa<>0<>true
+6<>7<>Poslovnica Jelah<>0<>true
+7<>8<>Poslovnica Tesanj<>0<>true
+6<>9<><>0<>true
+6<>10<><>0<>true
+6<>11<>Poslovnica ze<>0<>true
+7<>12<>PoslovnicaSber<>0<>true
+5<>13<><>0<>true
+7<>14<>SberTes<>0<>true
+8<>15<>MojaBanka Poslovnica tesanj<>0<>false
+8<>16<>poslovnica jelah<>0<>true
+8<>17<>MojaBankaTesa<>0<>true
+8<>18<>MojaBankaJelah<>0<>true
+8<>19<>mojaBankaSimetrale<>0<>true
+8<>20<>s<>0<>true
+6<>21<>NLBSIM<>0<>true
+6<>22<>NedimOffice name<>0<>true
+9<>23<>Podruznica tesanj<>0<>true
+11<>24<>jah ured ime<>0<>true

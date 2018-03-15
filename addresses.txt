@@ -1,0 +1,13 @@
+1<>Mostar<>Mostarska ulica 2<>78000
+2<>Tesanj<>O. Pobrica <>74260
+3<>Tesanj<>Jelah bb<>74264
+4<>Sarajevo<>Sarajevska 89a<>71000
+5<>Tesanj<>Tesanjska 1<>74260
+6<>Tesanj<>Jelah bb<>74264
+7<>Sarajevo<>Sarajevska 2b<>71000
+8<>Tesanj<>Trg 4<>74260
+9<>Tesanj<>Matuzici bb<>74260
+10<>Tesanj<>Krasevo bb<>74260
+11<>Tesanj<>I.zona Bukva 34<>74260
+12<>Tesnaj<>Marsala Tita 8<>74260
+13<>Tesanj<>Jelahska 7<>74264
